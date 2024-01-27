@@ -1,3 +1,5 @@
 api_info.py
 gpt_analysis_test.ipynb
 __pycache__/
+*.jpg
+test.ipynb
