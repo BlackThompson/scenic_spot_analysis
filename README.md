@@ -8,7 +8,8 @@ This paper proposed a Text-Image Cognitive Framework to simulate how people perc
 
 
 
-![framework](https://black-thompson.oss-cn-beijing.aliyuncs.com/img/framework.png)
+![framework](./pic/framework.png)
+![framework_formal](./pic/framework_Formal%20expression.png)
 
 ## Usage
 
