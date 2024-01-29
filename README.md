@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
-Code for paper: "*Text-Image Cognitive Framework: A Case Study on Scenic Spot Posts in RED*". 
+Code for paper: "*Hierarchical Text-Image Cognitive Framework for Social Media: A Case Study on Scenic Spot Posts in RED*". 
 
 This paper proposed a Text-Image Cognitive Framework to simulate how people perceive scenic spots through RED posts. The framework uses advanced models to analyze images and text at different levels: image, post, and comprehensive. Comparing only pictures and only text, the framework achieves the highest scores regarding completeness and satisfaction.
 
